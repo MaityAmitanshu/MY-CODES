@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+// pushing it to git
 struct node {
     int data ;
     struct node *link ;
